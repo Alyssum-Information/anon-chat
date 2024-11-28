@@ -6,11 +6,11 @@ Through blockchain technology, AnonChat ensures data integrity and maintains use
 
 ## Features
 
-- Anonymous account creation
-- Earn points with one click
-- Multimedia messages presentation (by markdown)
-- Convenient viewing features such as tags, replies, following, and blacklists
-- Upvoting/downvoting of messages
+- Create anonymous accounts effortlessly
+- Earn points with a single click
+- Multimedia messages with markdown support
+- Convenient viewing options such as tags, replies, following, and blacklists
+- Vote on messages
 
 ## Contributing
 
